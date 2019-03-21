@@ -1,0 +1,105 @@
+[  
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "http://localhost:91"
+      ],
+      "CdEnvironmentId":"CdEnvironmentLiveId",
+      "Id":"Website2",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://pre-www-a.svb.org",
+         "http://localhost:9091",
+         "https://svbwkstsa03.esp.svb.org:8443",
+         "https://svbwkstsa04.esp.svb.org:8443",
+         "https://10.218.32.27",
+         "https://10.218.32.37:8443",
+         "https://10.218.32.38:8443",
+         "https://pre-www-wks-a.os.esp.svb.org"
+      ],
+      "CdEnvironmentId":"CdEnvironmentStagingId",
+      "Id":"www_svb_nl_staging",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://pre-www-vodo-wks-a.os.esp.svb.org",
+         "http://localhost:9092",
+         "http://pre-www-vodo-wks-a.os.esp.svb.org"
+      ],
+      "CdEnvironmentId":"CdEnvironmentStagingId",
+      "Id":"www_verhalenoverdeoorlog_nl_staging",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://www-vodo-wks-a.os.esp.svb.org",
+         "http://localhost:8092",
+         "http://www-vodo-wks-a.os.esp.svb.org"
+      ],
+      "CdEnvironmentId":"CdEnvironmentLiveId",
+      "Id":"www_verhalenoverdeoorlog_nl_live",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "http://localhost:81"
+      ],
+      "CdEnvironmentId":"CdEnvironmentStagingId",
+      "Id":"Website1",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://www-a.svb.nl",
+         "https://www-a.nieuw.svb.nl",
+         "http://localhost:8091",
+         "https://10.218.32.25",
+         "https://10.218.32.33:8443",
+         "https://10.218.32.34:8443",
+         "https://svbwkstaa03.esp.svb.org:8443",
+         "https://svbwkstaa04.esp.svb.org:8443",
+         "https://www-wks-a.os.esp.svb.org"
+      ],
+      "CdEnvironmentId":"CdEnvironmentLiveId",
+      "Id":"www_svb_nl_live",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   }
+]

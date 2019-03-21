@@ -1,0 +1,123 @@
+[  
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "http://wks-t.wks.svb.org:9099",
+         "http://localhost:9099"
+      ],
+      "CdEnvironmentId":"CdEnvironmentStagingId",
+      "Id":"www_svbnl_test_staging",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://pre-www.vodo-test-wks-dev.os.esp.svb.org",
+         "http://localhost:9092",
+         "http://pre-www.vodo-test-wks-dev.os.esp.svb.org"
+      ],
+      "CdEnvironmentId":"CdEnvironmentStagingId",
+      "Id":"www_verhalenoverdeoorlog_nl_staging",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://pre-t.wks.svb.org:8443",
+         "http://localhost:9091"
+      ],
+      "CdEnvironmentId":"CdEnvironmentStagingId",
+      "Id":"www_svb_nl_staging",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://www-vodo-test-wks-dev.os.esp.svb.org",
+         "http://localhost:8092",
+         "http://www-vodo-test-wks-dev.os.esp.svb.org"
+      ],
+      "CdEnvironmentId":"CdEnvironmentLiveId",
+      "Id":"www_verhalenoverdeoorlog_nl_live",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "http://localhost:81"
+      ],
+      "CdEnvironmentId":"CdEnvironmentStagingId",
+      "Id":"Website1",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "http://wks-t.wks.svb.org:8098",
+         "http://localhost:8098"
+      ],
+      "CdEnvironmentId":"CdEnvironmentLiveId",
+      "Id":"www_perftest_live",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "https://www-t.wks.svb.org:8443",
+         "http://localhost:8091"
+      ],
+      "CdEnvironmentId":"CdEnvironmentLiveId",
+      "Id":"www_svb_nl_live",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   },
+   {  
+      "$type":"Tridion.TopologyManager.Data.WebsiteData, Tridion.TopologyManager.Data",
+      "BaseUrls":[  
+         "http://wks-t.wks.svb.org:8099",
+         "http://localhost:8099"
+      ],
+      "CdEnvironmentId":"CdEnvironmentLiveId",
+      "Id":"www_svbnl_test_live",
+      "ExtensionProperties":[  
+
+      ],
+      "ScopedRepositoryKeys":[  
+
+      ]
+   }
+]

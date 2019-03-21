@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Sdl.Web.ModelService</name>
+    </assembly>
+    <members>
+        <member name="T:Sdl.Web.ModelService.ModelServiceClient">
+            <summary>
+            Client for the DXA Model Service
+            </summary>
+        </member>
+        <member name="M:Sdl.Web.ModelService.ModelServiceClient.PerformRequest(Sdl.Web.ModelService.Request.IModelServiceRequest)">
+            <summary>
+            Perform Model Service request
+            </summary>
+        </member>
+        <member name="M:Sdl.Web.ModelService.ModelServiceClient.PerformRequest``1(Sdl.Web.ModelService.Request.IModelServiceRequest)">
+            <summary>
+            Perform Model Service request
+            </summary>
+        </member>
+        <member name="T:Sdl.Web.ModelService.ModelServiceResponse`1">
+            <summary>
+            Model Service Response
+            </summary>
+        </member>
+        <member name="P:Sdl.Web.ModelService.ModelServiceResponse`1.Response">
+            <summary>
+            Deserialized Model Service response
+            </summary>
+        </member>
+        <member name="P:Sdl.Web.ModelService.ModelServiceResponse`1.Hashcode">
+            <summary>
+            Returns hash code of Model Service response
+            </summary>
+        </member>
+        <member name="P:Sdl.Web.ModelService.Request.IModelServiceRequest.Binder">
+            <summary>
+            Serialization binder used when deserializing the request from the model service. This can
+            be used to map types during deserialization.
+            </summary>
+        </member>
+        <member name="M:Sdl.Web.ModelService.Request.IModelServiceRequest.BuildRequestUri(Sdl.Web.ModelService.ModelServiceClient)">
+            <summary>
+            Returns the request Uri for the given model service.
+            </summary>
+            <param name="modelService">Model service</param>
+            <returns>Request Uri</returns>
+        </member>
+    </members>
+</doc>
